@@ -37,3 +37,7 @@ var autoknowledge = setInterval(function() {
     }
 },50);
 ```
+
+- [ ] The instructions
+- [ ] For this section
+- [ ] We're quite unclear
